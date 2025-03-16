@@ -1,5 +1,5 @@
 # prueba-repo
 primer repo en git hub
-*descripcion
-**descripcion
+#descripcion
+##descripcion
 solo es una prueba de repositorio
